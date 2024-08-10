@@ -1,6 +1,6 @@
 # Obesity-or-CVD-Risk-Project
 
-A partir de un dataset sobre aspectos relacionados a la obesidad, se realizaron pasos en Exploratory Data Analisis (EDA), feature selection, elección de un modelo de machine learning (aprendizaje supervisado y de regresión lineal), entrenamiento, validación cruzada y testeo del modelo elegido.
+A partir de un dataset sobre aspectos relacionados a la obesidad, se realizaron pasos en Exploratory Data Analisis (EDA), feature selection, elección de un modelo de machine learning (aprendizaje supervisado), entrenamiento, validación cruzada y testeo del modelo elegido.
 
 De dicho proceso se busca obtener resultados óptimos utilizando métricas de evaluación de R2. 
 
@@ -15,14 +15,15 @@ Por medio del modelado en machine learning y el aprendizaje supervisado se busca
 - Matplotlib
 - Seaborn
 - Scikitlearn
+- SHAP
 - Adobe Color
 - Canva
 
 ## Enlaces
 
-Colab: https://colab.research.google.com/drive/1a49wye_GTn6A4gbAMKycmoY2Zz3gWA-P?usp=drive_link
+Colab: https://colab.research.google.com/drive/1OVKNX3Gzcks2zHDxgz3sN1cidFK-x3GZ?usp=sharing
 
-Presentación: https://drive.google.com/file/d/10q8uhcpZmHlghWHsn80U-j6QxC76iHoV/view?usp=drive_link
+Presentación: https://drive.google.com/file/d/1DidJoEMXa1OVu6hY2_ll7-H62NXxC4z1/view?usp=sharing
 
 
 
